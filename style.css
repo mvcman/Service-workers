@@ -1,0 +1,16 @@
+#header {
+  background: Black;
+  width: 100%;
+  height:100px;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+#body1 {
+  background:white;
+  width: 80%;
+  height:100%;
+  color: black;
+  padding-top: 10px;
+  margin:auto;
+}
