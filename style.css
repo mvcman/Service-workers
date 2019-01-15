@@ -2,7 +2,7 @@ body {
   font-family: Droid sans;
   text-transform: uppercase;
   letter-spacing: 3px;
-  text-shadow: 3px 2px silver;
+
 }
 @media screen and (min-width: 1350px){
 #header {
@@ -13,13 +13,14 @@ body {
   text-align: center;
   padding-top: 20px;
   position:sticky;
+  text-shadow: 3px 2px silver;
 }
 #nav-bar {
   background: #f1f1f1;
   height: 50px;
   display: flex;
   flex: auto;
-
+  text-shadow: 3px 2px silver;
   position:sticky;
 }
 ul {
@@ -89,13 +90,14 @@ input:focus {
     text-align: center;
     padding-top: 20px;
     position:sticky;
+    text-shadow: 3px 2px silver;
   }
   #nav-bar {
     background: #f1f1f1;
     height: 50px;
     display: flex;
     flex: auto;
-
+    text-shadow: 3px 2px silver;
     position:sticky;
   }
   ul {
@@ -171,13 +173,14 @@ input:focus {
     text-align: center;
     padding-top: 20px;
     position:sticky;
+    text-shadow: 3px 2px silver;
   }
   #nav-bar {
     background: #f1f1f1;
     height: 50px;
     display: flex;
     flex: auto;
-
+    text-shadow: 3px 2px silver;
     position:sticky;
   }
   ul {
