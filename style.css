@@ -1,3 +1,6 @@
+body {
+  font-family: Droid sans;
+}
 #header {
   background: Black;
   width: 100%;
@@ -55,9 +58,15 @@ input {
 input:focus {
   border: 1px solid silver;
    outline:none;
-
-
-}
+ }
+ #b1 {
+   width: 70px;
+   height: 70px;
+   border-radius: 50%;
+   color: white;
+   background: black;
+   float:right;
+ }
 #body1 {
   background:white;
   width: 80%;
